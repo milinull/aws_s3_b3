@@ -1,0 +1,7 @@
+O arquivo IBOVDia_03-02-25.parquet foi registrado no Bucket S3
+O arquivo IBOVDia_04-02-25.parquet foi registrado no Bucket S3
+O arquivo IBOVDia_05-02-25.parquet foi registrado no Bucket S3
+O arquivo IBOVDia_06-02-25.parquet foi registrado no Bucket S3
+O arquivo IBOVDia_07-02-25.parquet foi registrado no Bucket S3
+O arquivo IBOVDia_10-02-25.parquet foi registrado no Bucket s3
+O arquivo IBOVDia_11-02-25.parquet foi registrado no Bucket S3
