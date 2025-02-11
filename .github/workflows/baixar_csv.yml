@@ -33,7 +33,7 @@ jobs:
           pip install selenium webdriver-manager chardet pytz boto3 pandas pyarrow fastparquet
 
       - name: Configurar credenciais AWS
-        uses: aws-actions/configure-aws-credentials@v4  # Atualizar de v1 para v4
+        uses: aws-actions/configure-aws-credentials@v4
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
