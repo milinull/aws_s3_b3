@@ -16,3 +16,4 @@ O arquivo IBOVDia_21-02-25.parquet foi registrado no Bucket S3
 O arquivo IBOVDia_24-02-25.parquet foi registrado no Bucket S3
 O arquivo IBOVDia_25-02-25.parquet foi registrado no Bucket S3
 O arquivo IBOVDia_26-02-25.parquet foi registrado no Bucket S3
+O arquivo IBOVDia_27-02-25.parquet foi registrado no Bucket S3

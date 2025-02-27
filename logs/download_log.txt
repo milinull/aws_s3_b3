@@ -16,3 +16,4 @@ O arquivo da data 21-02-25 foi baixadoO download do arquivo CSV falhou: IBOVDia_
 O arquivo da data 24-02-25 foi baixado
 O arquivo da data 25-02-25 foi baixado
 O arquivo da data 26-02-25 foi baixado
+O arquivo da data 27-02-25 foi baixado
