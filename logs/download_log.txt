@@ -27,3 +27,4 @@ O arquivo da data 12-03-25 foi baixado
 O arquivo da data 13-03-25 foi baixado
 O arquivo da data 14-03-25 foi baixadoO download do arquivo CSV falhou: IBOVDia_15-03-25.csvO download do arquivo CSV falhou: IBOVDia_16-03-25.csv
 O arquivo da data 17-03-25 foi baixado
+O arquivo da data 18-03-25 foi baixado
